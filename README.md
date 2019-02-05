@@ -1,5 +1,5 @@
 # PaySubs_WHMCS
-## DPO PayGate PaySubs (VCS) WHMCS plugin v1.0.0 for WHMCS v7.4.6
+## DPO PayGate PaySubs1 (VCS) WHMCS plugin v1.0.0 for WHMCS v7.4.6
 
 This is the DPO PayGate PaySubs1 (VCS) plugin for WHMCS. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
 
