@@ -12,9 +12,10 @@ Please submit pull requests with any tweaks, features or fixes you would like to
 
 ## Supported Acquiring Banks
 
-- Standard Bank South Africa
-- Bidvest Bank
 - ABSA Bank
+- Standard Bank South Africa
+- First National Bank
+- Nedbank (Nedbank require x2 merchant accounts. 3D secure and Moto).
 
 ## About PaySubs
 
