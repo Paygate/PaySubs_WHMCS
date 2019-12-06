@@ -12,9 +12,9 @@ Please submit pull requests with any tweaks, features or fixes you would like to
 
 ## Supported Acquiring Banks
 
-Standard Bank South Africa
-Bidvest Bank
-ABSA Bank
+- Standard Bank South Africa
+- Bidvest Bank
+- ABSA Bank
 
 ## About PaySubs
 
